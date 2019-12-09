@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: PCM2CloudSim
+Bundle-SymbolicName: PCM2CloudSim
+Bundle-Version: 1.0.0.qualifier
+Export-Package: .
+Require-Bundle: org.palladiosimulator.pcm;bundle-version="4.2.0",
+ org.palladiosimulator.pcm.resources;bundle-version="4.2.0"
